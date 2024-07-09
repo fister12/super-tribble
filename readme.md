@@ -1,0 +1,1 @@
+<h2>use npm run server to start the server with nodemon else use npm start<!h2>
