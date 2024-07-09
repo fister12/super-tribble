@@ -2,4 +2,5 @@
 .env
 
 # Ignore node_modules directory
-/workspace/super-tribble/node_modules
+node_modules/
+
